@@ -11,7 +11,7 @@ echo "Installing Brew & Xcode's Command Line Tools"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew analytics off
 
-git clone https://github.com/DylanTackoor/dotfiles.git ~/.dotfiles
+git clone https://github.com/stephjackson/dotfiles.git ~/.dotfiles
 
 echo "Closing System Preferences if open..."
 osascript -e 'tell application "System Preferences" to quit'
