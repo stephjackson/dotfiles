@@ -1,5 +1,5 @@
 # dotfiles
 
 ```sh
-wget -q -O - http://dotfiles.dylantackoor.com | bash
+wget -q -O - https://raw.githubusercontent.com/stephjackson/dotfiles/master/steph.sh | bash
 ```
